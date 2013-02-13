@@ -1,0 +1,5 @@
+D:\Gaurav\Projects\Development&Research\WCFTest\WCFTest\WCFTest\bin\WCFTest.dll
+D:\Gaurav\Projects\Development&Research\WCFTest\WCFTest\WCFTest\bin\WCFTest.pdb
+D:\Gaurav\Projects\Development&Research\WCFTest\WCFTest\WCFTest\obj\Debug\WCFTest.dll
+D:\Gaurav\Projects\Development&Research\WCFTest\WCFTest\WCFTest\obj\Debug\WCFTest.pdb
+D:\Gaurav\Projects\Development&Research\WCFTest\WCFTest\WCFTest\obj\Debug\WCFTest.csprojResolveAssemblyReference.cache
